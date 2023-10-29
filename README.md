@@ -3,7 +3,7 @@
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC-BY-NC-ND)</a>.
 ________________
 
-**Engine - Game Maker 8.1**
+**Engine - Game Maker 8.1 / Game Maker: Studio 1**
 
 **Language - Game Maker Language**
 
